@@ -1,0 +1,580 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\aroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\aroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\rroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\rroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\rroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\rroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\aroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\aroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\hotelmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\rroom.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\rroom.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Xml\\Schemas\\1033\\MSBuild\\Microsoft.Build.Core.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\loginuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\loginuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\manageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\manageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\hotelmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelmanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\employees.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\employees.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\nazmu\\onedrive\\desktop\\oop final project\\hotelmanagementsystem\\hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{402DCD74-B954-4699-80EA-D224CBA109C0}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Employees.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Employees.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAACkBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:08:14.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckOut.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckOut.cs",
+              "RelativeToolTip": "HotelManagementSystem\\CheckOut.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:37:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Receptionist.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Receptionist.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Receptionist.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Receptionist.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:57:59.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RRoom.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\RRoom.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.cs",
+              "RelativeToolTip": "HotelManagementSystem\\RRoom.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA8wE4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T19:58:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Payment.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Payment.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Payment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:55:20.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Admin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Admin.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Admin.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Admin.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:01:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ARoom.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ARoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\ARoom.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ARoom.cs",
+              "RelativeToolTip": "HotelManagementSystem\\ARoom.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:15:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckIn.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckIn.cs",
+              "RelativeToolTip": "HotelManagementSystem\\CheckIn.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T02:40:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Login.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAlwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:45:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeToolTip": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T16:55:51.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Welcome.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Welcome.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Welcome.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Welcome.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T10:30:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RRoom.resx",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.resx",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\RRoom.resx",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.resx",
+              "RelativeToolTip": "HotelManagementSystem\\RRoom.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-28T02:51:05.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.cs",
+              "RelativeToolTip": "HotelManagementSystem\\ManageUser.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAABUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:26:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.Build.Core.xsd",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Xml\\Schemas\\1033\\MSBuild\\Microsoft.Build.Core.xsd",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Xml\\Schemas\\1033\\MSBuild\\Microsoft.Build.Core.xsd",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Xml\\Schemas\\1033\\MSBuild\\Microsoft.Build.Core.xsd",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\Xml\\Schemas\\1033\\MSBuild\\Microsoft.Build.Core.xsd",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwCcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-01-27T18:51:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\LoginUserInfo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\LoginUserInfo.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\LoginUserInfo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\LoginUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:51:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\ManageUser.Designer.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.Designer.cs",
+              "RelativeToolTip": "HotelManagementSystem\\ManageUser.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwD8BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:39:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\DbHelper.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\DbHelper.cs",
+              "RelativeToolTip": "HotelManagementSystem\\DbHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:17:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HotelManagementSystem",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeToolTip": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T12:30:45.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAO0UAAAAAAAAAADwvwQVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-26T12:19:36.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Employees.resx",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.resx",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Employees.resx",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.resx",
+              "RelativeToolTip": "HotelManagementSystem\\Employees.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-27T09:00:57.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:53:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:14:51.212Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Admin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Admin.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Admin.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:00:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T11:15:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Payment.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Payment.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:42:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckOut.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckOut.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:27:00.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\RRoom.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\RRoom.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\RRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T19:52:13.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Welcome.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Welcome.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Welcome.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T10:51:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ARoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ARoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\ARoom.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ARoom.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\ARoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:57:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckIn.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\CheckIn.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\CheckIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:18:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Receptionist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Receptionist.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Receptionist.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Receptionist.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Receptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:53:05.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Employees.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Employees.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Employees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:07:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\ManageUser.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\ManageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T11:45:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\nazmu\\OneDrive\\Desktop\\OOP Final Project\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:53:15.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
